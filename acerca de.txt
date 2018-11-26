@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
+Nombre: 		Iván N.
+Edad: 			21
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
+Originario de: 		Culiacán, Sinaloa
+Estudios:		Lic. en Informática
 Profesión:		Lead Project Manager
